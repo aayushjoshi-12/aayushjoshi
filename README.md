@@ -1,5 +1,8 @@
 # Aayush Joshi's Portfolio
 
+<!-- Insert Your Photo Here -->
+![Aayush Joshi](assets/profile.jpg) 
+
 Welcome to my GitHub Portfolio! I'm Aayush Joshi, a dedicated computer science enthusiast from Kishangarh, Rajasthan. Passionate about leveraging technology to solve real-world problems, I've been involved in various projects and endeavors that showcase my skills and commitment to innovation.
 
 ## About Me
